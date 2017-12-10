@@ -1,0 +1,2 @@
+# yanzteambkb
+bot protect
